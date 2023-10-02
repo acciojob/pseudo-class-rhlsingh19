@@ -6,7 +6,7 @@
 #container::before,
 #container::after {
     content: 'Before Element ';
-    color: red;
+    color: rgb(255,0,0);
     font-size: 20px;
 }
 
